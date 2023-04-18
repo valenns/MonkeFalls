@@ -1,5 +1,5 @@
 # Monke-Falls
-Monke Falls is a small but fun gorilla tag mod that removes the trees randomly and lets you take fall damage! It's made in under 2 hours so it might be buggy
+Monke Falls is a small but fun gorilla tag mod that lets you take fall damage! It's made in under 2 hours so it might be buggy
 
 # Fall damage explanation 
 When you hit the ground too hard you will be kicked out of the game
